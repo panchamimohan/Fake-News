@@ -1,0 +1,16 @@
+Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.[1] Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics and machine learning.[2] Registration requires a credit card or bank account details.[3]
+
+Google Cloud Platform provides Infrastructure as a service, Platform as a service, and Serverless computing environments.
+
+In April 2008, Google announced App Engine, a platform for developing and hosting web applications in Google-managed data centers, which was the first cloud computing service from the company. The service became generally available in November 2011. Since the announcement of App Engine, Google added multiple cloud services to the platform.
+
+Google Cloud Platform is a part [4] of Google Cloud, which includes the Google Cloud Platform public cloud infrastructure, as well as G Suite, enterprise versions of Android and Chrome OS, and application programming interfaces (APIs) for machine learning and enterprise mapping services. 
+Networking
+
+    VPC - Virtual Private Cloud for managing the software defined network of cloud resources.
+    Cloud Load Balancing - Software-defined, managed service for load balancing the traffic.
+    Cloud Armor - Web application firewall to protect workloads from DDos attacks.
+    Cloud CDN - Content Delivery Network based on Google’s globally distributed edge points of presence. As of June 2018, the service is in Beta.
+    Cloud Interconnect - Service to connect a data center with Google Cloud Platform
+    Cloud DNS - Managed, authoritative DNS service running on the same infrastructure as Google.
+    Network Service Tiers - Option to choose Premium vs Standard network tier for higher performing network.

@@ -1,3 +1,3 @@
 from googlesearch import search
-for url in search('"Breaking Code" WordPress blog', stop=20):
+for url in search('wild rose', stop=5):
     print(url)
